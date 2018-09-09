@@ -14,7 +14,7 @@ p{
 </style>
 
 [![24Frames](./img/24Frames.jpg)](https://www.bilibili.com/video/av29991212)
-:point_up_2:
+☝
 
 ## 1frame
 
