@@ -12,6 +12,7 @@ Something Not Everything
     + [肆式青春](./Art/肆式青春.md)
     + [24Frames](./Art/24Frames.md)
     + [走不出『长城』的阴影](./Art/Shadow.md)
+    + [大佛plus](./Art/The-Great-Buddha+.md)
 - Idea
     + [纸短情长](./Idea/纸短情长.md)
     + [procrastination](./Idea/procrastination.md)
